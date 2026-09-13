@@ -42,3 +42,5 @@ didn't write it can rely on it.
 `Python` · `pandas` · `NumPy` · `Jupyter` · `Plotly` · `BeautifulSoup` · `SQL` · `C#` · `Lua` · `Git`
 
 📫 jon.trnka@gmail.com
+
+https://www.linkedin.com/in/jonathan-trnka-310b8aa3/
