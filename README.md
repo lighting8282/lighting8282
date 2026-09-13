@@ -10,6 +10,14 @@ I'm currently focused on data analysis and working toward data science roles.
 
 ### 📊 Data & Analysis
 
+**[LLM Agent vs. Baseline LLM](https://github.com/lighting8282/LLM-Agent-vs-Baseline-LLM)** · `Python` `Groq` `statsmodels` `Quarto`
+Benchmarks an agentic LLM pipeline — planning, tool use, self-assessment, and
+error recovery — against a single-shot baseline running on the same underlying
+model, so agentic capability is the only variable. Every tool call is logged with
+its latency and failure mode, then regressions measure how total latency scales
+with task complexity, tool count, and API difficulty. Packaged as a reproducible
+Quarto report that builds from committed results without calling a live API.
+
 **[Historical Stock & Revenue Dashboard](https://github.com/lighting8282/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard)** · `Python` `pandas` `BeautifulSoup` `Plotly`
 Pulls full price histories for TSLA and GME through the `yfinance` API, scrapes
 quarterly revenue from HTML tables with BeautifulSoup, cleans and normalizes both
@@ -39,7 +47,7 @@ didn't write it can rely on it.
 
 ### 🛠 Working with
 
-`Python` · `pandas` · `NumPy` · `Jupyter` · `Plotly` · `BeautifulSoup` · `SQL` · `C#` · `Lua` · `Git`
+`Python` · `pandas` · `NumPy` · `statsmodels` · `Jupyter` · `Quarto` · `Plotly` · `BeautifulSoup` · `SQL` · `C#` · `Lua` · `Git`
 
 📫 jon.trnka@gmail.com
 
