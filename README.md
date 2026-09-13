@@ -43,4 +43,4 @@ didn't write it can rely on it.
 
 📫 jon.trnka@gmail.com
 
-<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/6066a516-f0a8-49bf-b429-1921d2c4f4ed" /> https://www.linkedin.com/in/jonathan-trnka-310b8aa3/
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/9e886b69-56d2-4815-b65e-9dd674e6e7a9" /> https://www.linkedin.com/in/jonathan-trnka-310b8aa3/
