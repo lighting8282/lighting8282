@@ -10,6 +10,15 @@ I'm currently focused on data analysis and working toward data science roles.
 
 ### 📊 Data & Analysis
 
+**[Battle of the Agents: Single vs. Multi](https://github.com/lighting8282/Battle-of-the-Agents-Single-vs-Multi)** · `Python` `OpenAI` `statsmodels` `Plotly` `Quarto`
+The follow-up to the benchmark below. Having established that an agent beats a
+plain LLM, this asks which kind of agent wins: one agent holding all three tools
+against a three-role system — planner, solver, reviewer — over the same 100 real
+search queries. Paired hypothesis tests and interactive plots across latency,
+correctness, token cost and error recovery. The single agent turns out faster per
+query and the multi-agent more accurate, with coordination overhead driving cost
+up sharply. [Read the report](https://lighting8282.github.io/Battle-of-the-Agents-Single-vs-Multi/)
+
 **[LLM Agent vs. Baseline LLM](https://github.com/lighting8282/LLM-Agent-vs-Baseline-LLM)** · `Python` `Groq` `statsmodels` `Quarto`
 Benchmarks an agentic LLM pipeline — planning, tool use, self-assessment, and
 error recovery — against a single-shot baseline running on the same underlying
